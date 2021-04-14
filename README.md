@@ -41,10 +41,13 @@ The following tasks are required to complete:
 
 - A Python script with the final Lambda function.
 
-- Two short videos that demo the robo advisor in action from the “Test bot” pane as requested. 
-
+- 3 short videos that demo the robo advisor in action from the “Test bot” pane as requested. 
+### Initial RoboAdvisor
 ![Initial RoboAdvisor](Images/testbot.gif)
-![RoboAdvisor with Lambda Function](Images/)
+### RoboAdvisor with Lambda Function
+![RoboAdvisor with Lambda Function](Images/testbot_lambda.gif)
+### Error Testing
+![Error Testing](Images/error_testing.gif)
 
 ---
 
